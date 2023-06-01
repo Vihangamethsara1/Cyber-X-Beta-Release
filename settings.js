@@ -37,7 +37,7 @@ global.doc6 = 'application/vnd.android.package-archive'
 
 //OWNER CONTACT
 global.vcardowner = ['94761105459'] //ur owner number
-global.ownername = "𝑽𝒊𝒉𝒂𝒏𝒈𝒂_𝑴𝒆𝒕𝒉𝒔𝒂𝒓𝒂 ( © ᴹᵀ 𝑫𝒂𝒓𝒌_𝑫𝒆𝒗𝒐𝒍𝒐𝒑𝒆𝒓" //ur owner name
+global.ownername = "𝑽𝒊𝒉𝒂𝒏𝒈𝒂_𝑴𝒆𝒕𝒉𝒔𝒂𝒓𝒂 ( © ᴹᵀ 𝑫𝒂𝒓𝒌_𝑫𝒆𝒗𝒐𝒍𝒐𝒑𝒆𝒓 )" //ur owner name
 global.ytname = "YT: TGM Arcade" //ur yt chanel name
 global.socialm = "GitHub: darkalphaxteam" //ur github or insta name
 global.location = "Sri Lanka, Wellawaya, Buduruwagala" //ur location
@@ -93,7 +93,7 @@ global.ntilink = []
 //OTHERS
 global.sessionName = 'session'
 global.antitags = true
-global.prefa = ['','!','.']
+global.prefa = ['.']
 global.sp = '⭔'
 global.mess = {
     success: '✉️✏️ _Done_',
