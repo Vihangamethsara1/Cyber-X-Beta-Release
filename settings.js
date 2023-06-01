@@ -57,10 +57,10 @@ global.packname = "Cyber-X  Bot" //ur sticker watermark packname
 global.author = "DARK Maker" //ur sticker watermark author
 global.footer = "® 𝑪𝒚𝒃𝒆𝒓 - 𝑿 𝑩𝒐𝒕 𝑫𝒆𝒑𝒍𝒐𝒚 𝑩𝒚 𝑫𝒂𝒓𝒌 𝑴𝒂𝒌𝒆𝒓"
 global.aliveimg ="https://telegra.ph/file/e7df8d458a85466cdc785.jpg"
-global.allmenuimg ="https://telegra.ph/file/4f8a6f14430de2a4f4991.jpg"
-global.welcomeimg= "https://telegra.ph/file/844812c77704231c08a90.jpg"
-global.gbyeimg = "https://telegra.ph/file/844812c77704231c08a90.jpg"
-global.alivemsg = "ඔබ සතුව නැති දේ ලබා ගැනීමේ පහසුම ක්‍රමය  ඇගයීමයි.. හැකි සෑම විටම තව කෙනෙක්ව ඇගයීමට උත්සහ කරන්න. එය ඔබේ මානසික සංවර්ධිත බවේ සලකුණකි..\nසංස්කරණය කළ පරිවර්තනයකි...\n@best_m_otivation\n#lifetips\n#psychology\n#questions"
+global.allmenuimg ="https://telegra.ph/file/a4f16efb60aec2cd91f42.jpg"
+global.welcomeimg= "https://telegra.ph/file/a4f16efb60aec2cd91f42.jpg"
+global.gbyeimg = "https://telegra.ph/file/e7df8d458a85466cdc785.jpg"
+global.alivemsg = "𝑯𝒆𝒚 𝑻𝒉𝒆𝒊𝒓 𝑴𝒚 𝑩𝒐𝒕 𝒊𝒔 𝑨𝒍𝒊𝒗𝒆 𝑵𝒐𝒘...❄️👨‍💻💯🙃                                𝑻𝒚𝒑𝒆 [ .𝒎𝒆𝒏𝒖 ] 𝑮𝒆𝒕 𝑪𝒚𝒃𝒆𝒓-𝑿 𝑩𝒐𝒕 𝑪𝑴𝑫 𝑳𝒊𝒔𝒕...🌀💗❄️                          𝑻𝒉𝒂𝒏𝒌𝒔 𝑭𝒐𝒓 𝑼𝒔𝒊𝒏𝒈 𝑪𝒚𝒃𝒆𝒓-𝑿 𝑩𝒐𝒕"
 
 //BOT MEDIAS
 global.thum = fs.readFileSync("./LocalData/theme/cyber.jpg") //ur thumb pic
@@ -70,7 +70,7 @@ global.thumb = fs.readFileSync("./LocalData/theme/cyber.jpg") //ur thumb pic
 
 //DATA BASED
 
-global.premium = ['94711421243'] //ADD YOU NUMBER
+global.premium = ['94761105459'] //ADD YOU NUMBER
 global.ntilinkytvid = []
 global.ntilinkytch = []
 global.ntilinkig = []
